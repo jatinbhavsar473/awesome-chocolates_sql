@@ -48,3 +48,11 @@ Time-based Sales Insights:
 33. What is the total number of customers per quarter for each region?
 34. What is the revenue trend for different products over time?
 35. How does the number of boxes sold vary by season or month?
+
+
+Few Insights:
+1. 
+2. 
+3. 
+4. 
+5. 
