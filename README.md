@@ -1,6 +1,6 @@
 ### **Title**  
 **Awesome Chocolates Sales Analysis Dashboard**
-
+# Awesome Chocolates Sales Analysis Dashboard
 ---
 
 ### **Executive Summary**  
