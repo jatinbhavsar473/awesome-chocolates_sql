@@ -1,7 +1,3 @@
-Here’s the organized version of your project description:
-
----
-
 ### **Title**  
 **Awesome Chocolates Sales Analysis Dashboard**
 
@@ -56,7 +52,3 @@ During the project, I faced challenges related to data quality and integration f
 - Developed strong skills in designing user-friendly and interactive Power BI dashboards.  
 - Learned to analyze and visualize business problems through data-driven insights.  
 - Gained experience in working with large datasets, handling inconsistencies, and optimizing performance in Power BI.
-
----
-
-This format is now neatly organized and presents the project’s objectives, insights, challenges, and results in a clear and structured manner. Let me know if you need any further changes!
