@@ -1,5 +1,4 @@
 # Awesome Chocolates Sales Analysis Dashboard
----
 
 ### **Executive Summary**  
 This project presents an interactive Power BI dashboard designed with the help of SQL to analyze sales data for Awesome Chocolates. The dashboard provides insights into customer purchasing behavior, sales trends, product analysis, and team performance, enabling the business to make data-driven decisions.
