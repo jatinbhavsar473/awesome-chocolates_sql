@@ -25,13 +25,6 @@ The primary objective of this project was to create a comprehensive dashboard th
 
 ---
 
-### **Portfolio Contents**  
-- **Power BI Dashboard (.pbix file)**: The main interactive dashboard file.  
-- **Documentation (PDF)**: A detailed guide explaining the dashboard features and usage.  
-- **Presentation (PPT)**: A summary presentation of key findings and insights derived from the analysis.
-
----
-
 ### **Suggestions**  
 - **Overall Sales Insights**:
   - The highest sales volume occurred in January to March, indicating seasonal spikes, possibly due to New Year or Valentine's Day.  
