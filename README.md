@@ -1,4 +1,11 @@
-# Awesome Chocolates Sales Analysis Dashboard
+Here’s the organized version of your project description:
+
+---
+
+### **Title**  
+**Awesome Chocolates Sales Analysis Dashboard**
+
+---
 
 ### **Executive Summary**  
 This project presents an interactive Power BI dashboard designed with the help of SQL to analyze sales data for Awesome Chocolates. The dashboard provides insights into customer purchasing behavior, sales trends, product analysis, and team performance, enabling the business to make data-driven decisions.
@@ -19,6 +26,13 @@ The primary objective of this project was to create a comprehensive dashboard th
 - **Power BI**: For data visualization and dashboard creation.  
 - **DAX**: For data analysis expressions to manipulate data.  
 - **SQL Server**: For extracting and querying sales data from internal databases.
+
+---
+
+### **Portfolio Contents**  
+- **Power BI Dashboard (.pbix file)**: The main interactive dashboard file.  
+- **Documentation (PDF)**: A detailed guide explaining the dashboard features and usage.  
+- **Presentation (PPT)**: A summary presentation of key findings and insights derived from the analysis.
 
 ---
 
@@ -43,3 +57,6 @@ During the project, I faced challenges related to data quality and integration f
 - Learned to analyze and visualize business problems through data-driven insights.  
 - Gained experience in working with large datasets, handling inconsistencies, and optimizing performance in Power BI.
 
+---
+
+This format is now neatly organized and presents the project’s objectives, insights, challenges, and results in a clear and structured manner. Let me know if you need any further changes!
